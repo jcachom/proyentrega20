@@ -1,0 +1,21 @@
+
+{{> header}}
+
+
+
+<div>      
+    {{#each productos }}
+             <div  class="tarjeta">
+              <br>
+              id :{{ this.id }} <br>
+              code : {{ this.code }} <br>
+              title : {{ this.title }} <br>
+              description : {{ this.description }} <br>
+              price : {{ this.price }} <br>
+              stock : {{ this.stock }} <br>        
+             </div>
+              <br>                  
+   {{/each}}
+</div>
+ 
+

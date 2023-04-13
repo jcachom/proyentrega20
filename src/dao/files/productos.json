@@ -1,0 +1,253 @@
+[
+  {
+    "id": 8,
+    "code": "abc141",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "camisa",
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 9,
+    "code": "abc142",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "pantalon",
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 10,
+    "code": "abc143",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "camisa",
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 4,
+    "code": "abc127",
+    "title": "producto prueba modificacions",
+    "description": "Este es un producto prueba",
+    "price": 500,
+    "status": true,
+    "stock": 25,
+    "category": "pantalon",
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 11,
+    "code": "abc145",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 12,
+    "code": "abc148",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 14,
+    "code": "abc153",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 15,
+    "code": "abc154",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 16,
+    "code": "abc155",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 17,
+    "code": "abc156",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 18,
+    "code": "abc157",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 19,
+    "code": "abc158",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 20,
+    "code": "abc159",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 21,
+    "code": "abc60",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 22,
+    "code": "abc61",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 23,
+    "code": "abc67",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 24,
+    "code": "abc74",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 25,
+    "code": "abc76",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": 26,
+    "code": "abc77",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "status": true,
+    "stock": 250,
+    "thumbnail": [
+      "url1",
+      "url2"
+    ]
+  }
+]

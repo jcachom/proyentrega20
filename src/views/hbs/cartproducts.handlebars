@@ -1,0 +1,33 @@
+<h5> LISTADO DE PRODUCTOS - CARRITO NRO {{cart}}</h5>
+
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="./socket.io/socket.io.js"></script>
+<link rel="stylesheet" href="css/index.css" />
+<script src="/js/cartproducts.js"></script>
+
+<div id="divlist">
+
+  <table class="tables">
+    <tr style="background-color:green;color:white">
+      <th>Código</th>
+      <th>categoría</th>
+      <th>Descripción</th>
+      <th>Precio</th>
+      <th>Cantidad</th>
+    </tr>
+
+    {{#each productos}}
+
+      <tr>
+        <td><span style="font-weight:bold">{{this.code}}</span> </td>
+        <td> {{this.categoria}}</td>
+        <td> {{this.description}}</td>
+        <td>{{this.price}}</td>
+        <td>{{this.quantity}}</td>
+      </tr>
+
+    {{/each}}
+
+  </table>
+
+</div>

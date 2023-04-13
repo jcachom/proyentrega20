@@ -1,0 +1,18 @@
+
+
+Hola
+<input id="txtemail" type="text" disabled />
+Message<input id="txtmessage" type="text" />
+<button id="btnEnviar">Enviar</button>
+
+<br />
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="./socket.io/socket.io.js"></script>
+<link rel="stylesheet" href="css/index.css" />
+<script src="/js/message.js"></script>
+
+<div id="listmessages">
+  {{#each messages}}
+    <p>{{email}} : {{message}}</p>
+  {{/each}}
+</div>
